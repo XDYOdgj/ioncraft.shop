@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ioncraft.shop/sitemap.xml
